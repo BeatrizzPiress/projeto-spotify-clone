@@ -1,8 +1,8 @@
-#Spotify Clone
+# Spotify Clone
 
 Landing page inspirada no Spotify, criada durante a Imersão Frontend da Alura.
 
-#Capa
+# Capa
 <img src="Spotify Clone.png">
 
 # Tecnologias
